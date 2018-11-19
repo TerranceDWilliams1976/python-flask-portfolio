@@ -135,13 +135,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #ff0000;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #ff0000;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -509,7 +509,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #18BC9C;
+  background: #ff0000;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
